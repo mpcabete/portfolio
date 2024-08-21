@@ -1,0 +1,7 @@
+
+services:
+  nginx-portifolio:
+    build: .
+    restart: unless-stopped
+    ports: 
+      - 1314:80

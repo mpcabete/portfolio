@@ -1,5 +1,4 @@
 baseurl = "/"
-languageCode = "en-us"
 defaultContentLanguage = "pt"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -58,6 +57,7 @@ paginate = 5
   [languages.pt]
     languageName = "Portugues"
     title = "Terminal"
+    languageCode = "pt-BR"
 
     [languages.pt.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -91,6 +91,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Terminal"
+    languageCode = "en-US"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
