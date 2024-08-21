@@ -56,48 +56,43 @@ paginate = 5
 [languages]
   [languages.pt]
     languageName = "Portugues"
-    title = "Terminal"
+    title = "Portfólio"
     languageCode = "pt-BR"
 
     [languages.pt.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
+      subtitle = "Portfólio de Mateus Cabete"
+      owner = "Mateus Cabete"
+      keywords = "Portfólio"
+      copyright = " "
+      menuMore = "Mostrar mais"
+      readMore = "Ler Mais"
+      readOtherPosts = "Ler outros posts"
+      newerPosts = "Posts mais novos"
+      olderPosts = "Posts mais antigos"
+      missingContentMessage = "Página não encontrada..."
+      missingBackButtonLabel = "Voltar a página inicial"
+      minuteReadingTime = "min"
+      words = "palavras"
 
       [languages.pt.params.logo]
-        logoText = "Terminal"
+        logoText = "Mateus Cabete"
         logoHomeLink = "/"
 
       [languages.pt.menu]
         [[languages.pt.menu.main]]
           identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.pt.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
-
+          name = "Sobre"
+          url = "/sobre"
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Mateus Cabete"
     languageCode = "en-US"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      subtitle = "Mateus Cabete's portfolio"
+      owner = "Mateus Cabete"
+      keywords = "portfolio"
+      copyright = " "
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -109,7 +104,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Mateus Cabete"
         logoHomeLink = "/"
 
       [languages.en.menu]
@@ -117,10 +112,6 @@ paginate = 5
           identifier = "about"
           name = "About"
           url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
