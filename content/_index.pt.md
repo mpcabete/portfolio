@@ -1,13 +1,11 @@
 
 +++
-author = "Radek"
+author = "Mateus Cabete"
 framed = true
 +++
 
-# Hello there!
+# Olá!
 
-Meu nome é Mateus e eu posso lhe ajudar
+Meu nome é Mateus e esse é meu portfólio...
 
-If you want to change the default color scheme, please visit [terminal.css](https://panr.github.io/terminal-css/) and generate your own.
-
-[![Terminal.css Preview](./img/terminal-css.png)](https://panr.github.io/terminal-css/)
+![Avatar example](./avatar.jpg)

@@ -63,7 +63,7 @@ paginate = 5
       subtitle = "Portfólio de Mateus Cabete"
       owner = "Mateus Cabete"
       keywords = "Portfólio"
-      copyright = " "
+      copyright = "Mateus Cabete"
       menuMore = "Mostrar mais"
       readMore = "Ler Mais"
       readOtherPosts = "Ler outros posts"
@@ -75,6 +75,7 @@ paginate = 5
       words = "palavras"
 
       [languages.pt.params.logo]
+
         logoText = "Mateus Cabete"
         logoHomeLink = "/"
 
@@ -92,7 +93,7 @@ paginate = 5
       subtitle = "Mateus Cabete's portfolio"
       owner = "Mateus Cabete"
       keywords = "portfolio"
-      copyright = " "
+      copyright = "Mateus Cabete"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
