@@ -1,8 +1,7 @@
 +++
 title = "Individualização De Copas De Arvores"
 date = "2024-08-22T18:07:42-03:00"
-author = ""
-authorTwitter = "" #do not include @
+author = "Mateus Cabete"
 cover = "./predicao.png"
 tags = ["", ""]
 keywords = ["", ""]
@@ -30,7 +29,7 @@ Neste projeto, desenvolvi uma metodologia para individualizar copas de árvores 
 ### Geração de Ortomosaicos
 
 Enfrentei desafios na geração de ortomosaicos de alta qualidade. Experimentei diferentes altitudes de voo (40m, 60m, 110m) e ajustes no ODM para otimizar a resolução e minimizar distorções.
-{{< figure src="/comparacao-voo.png" alt="Comparação da resolução do voo de 60m e 110m" position="center" style="border-radius: 8px;" caption="Comparação da resolução do voo de 60m e 110m" >}}
+{{< figure src="./comparacao-voo.png" alt="Comparação da resolução do voo de 60m e 110m" position="center" style="border-radius: 8px;" caption="Comparação da resolução do voo de 60m e 110m" >}}
 
 ### Treinamento do Modelo
 
