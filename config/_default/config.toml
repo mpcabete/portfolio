@@ -123,19 +123,23 @@ enableGitInfo = true
   #  identifier = "cv"
   #  name = "CV"
   #  url = "/cv"
-  #  weight = 30
+   [[menu.main]]
+    identifier = "cv"
+    name = "Currículo"
+    url = "/cv"
+    weight = 10 
   [[menu.main]]
     identifier = "Sobre"
     name = "Sobre"
     url = "/sobre"
-    weight = 30
+    weight = 20
 
 [languages]
   [languages.pt]
     languageName = "Português"
     weight = 10
-    [languages.de.params.jsonResume]
-      present = "heute"
+    [languages.pt.params.jsonResume]
+      present = "presente"
   [languages.en]
     languageName = "English"
     weight = 20
