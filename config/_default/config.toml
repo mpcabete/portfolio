@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://portfolio.mpcabete.xyz"
 copyright = "© Mateus Cabete"
 title = "Mateus Cabete"
 #paginate = 10
