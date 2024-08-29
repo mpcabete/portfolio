@@ -3,9 +3,9 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Mateus Cabete",
-    "label": "Desenvolvedor",
+    "label": "Desenvolvedor Full Stack",
     "image": "/avatar.png",
-    "summary": "I've been a computer geek all my life. I'm passionate about open-source and digital privacy. I like video games and CrossFit. I also blog sometimes.",
+    "summary": "Desenvolvedor de software com formação em Biologia, apaixonado por resolver problemas complexos e criar soluções inovadoras. Transitei para a área de tecnologia em 2021, combinando minha experiência científica com habilidades técnicas. Busco constantemente aprimorar minhas competências para enfrentar desafios tecnológicos e contribuir com soluções eficazes.",
     "email": "mateus.cabete@gmail.com",
     "url": "https://mpcabete.xyz",
     "location": {
