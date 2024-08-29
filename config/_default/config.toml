@@ -144,4 +144,4 @@ enableGitInfo = true
     languageName = "English"
     weight = 20
     [languages.en.params.jsonResume]
-      present = "present"
+      present = "presente"

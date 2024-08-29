@@ -1,8 +1,14 @@
 # Stage 1
-FROM alpine:latest AS build
+FROM hugomods/hugo:latest AS build
 
 # Install the Hugo go app.
-RUN apk add --update hugo
+# RUN apt update
+
+# RUN apt install hugo -y
+
+# RUN apt install golang -y
+
+# RUN go version
 
 WORKDIR /opt/HugoApp
 
@@ -10,6 +16,9 @@ WORKDIR /opt/HugoApp
 COPY . .
 
 # Run Hugo in the Workdir to generate HTML.
+RUN npm install
+RUN hugo mod get
+RUN go get github.com/schnerring/hugo-theme-gruvbox@0eb434ccff160fcc3ca2ce103db2f1c93362cf77
 RUN hugo 
 
 # Stage 2
