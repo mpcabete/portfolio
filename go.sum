@@ -4,3 +4,5 @@ github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240828143313-0eb434ccff16 h1:i
 github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240828143313-0eb434ccff16/go.mod h1:kWzhREUSUg3jYNf1SuWMwkk0R5ROW4RFbytzfVUpBxo=
 github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240829132457-327bb3752de0 h1:uxQi8q+GE4whuMhUET7/ZawAwbnLhBtgTYFR94thzR8=
 github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240829132457-327bb3752de0/go.mod h1:kWzhREUSUg3jYNf1SuWMwkk0R5ROW4RFbytzfVUpBxo=
+github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240830191747-1b12ec504a2d h1:fEqplRRbr/PRyU6soY5REdb2rZDJimCVZd/U6tG0kyM=
+github.com/schnerring/hugo-theme-gruvbox v0.0.0-20240830191747-1b12ec504a2d/go.mod h1:kWzhREUSUg3jYNf1SuWMwkk0R5ROW4RFbytzfVUpBxo=

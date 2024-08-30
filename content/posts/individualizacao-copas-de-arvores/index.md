@@ -1,5 +1,5 @@
 ---
-title: "Individualização De Copas De Árvores"
+title: "Segmentação de Copas de Árvores com Aprendizado de Máquina"
 date: 2024-08-28T01:00:27+02:00
 cover:
   src: cover.png
@@ -10,12 +10,9 @@ tags:
   - ODM
 ---
 
-
-# Segmentação de Copas de Árvores com Aprendizado de Máquina
-
-## Introdução
-
 Neste projeto, desenvolvi uma metodologia para individualizar copas de árvores usando imagens RGB capturadas por drone. O objetivo era criar uma solução de baixo custo e amplamente aplicável para avaliação de áreas florestais extensas.
+
+<!--more-->
 
 ## Tecnologias Utilizadas
 

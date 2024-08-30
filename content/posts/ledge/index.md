@@ -5,10 +5,9 @@ cover:
     src: ./kmon-board-list.png
 ---
 
-# LEDge
-## Revolucionando a Experiência de Boulder em Academias de Escalada
-
 Inspirado em produtos similares no mercado, criei uma solução mais acessível e dinâmica, que possibilita que academias de escalada aproveitem a estrutura existente para criar uma experiência interativa onde os escaladores podem criar e compartilhar infinitos problemas de boulder na mesma parede.
+
+<!--more-->
 
 ### **Características Principais**
 - **Painel Interativo LED:** Uma parede de escalada equipada com LEDs controlados individualmente, que iluminam as agarras para cada problema de boulder.
