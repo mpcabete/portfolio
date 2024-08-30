@@ -3,6 +3,14 @@ title: "LEDge: Revolucionando a Experiência de Boulder em Academias de Escalada
 date: "2024-08-22T17:49:16-03:00"
 cover:
     src: ./kmon-board-list.png
+tags:
+  - Typescript
+  - Javascript
+  - Angular
+  - C++
+  - Docker
+  - sql
+  - PostgreSQL
 ---
 
 Inspirado em produtos similares no mercado, criei uma solução mais acessível e dinâmica, que possibilita que academias de escalada aproveitem a estrutura existente para criar uma experiência interativa onde os escaladores podem criar e compartilhar infinitos problemas de boulder na mesma parede.
