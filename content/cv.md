@@ -16,18 +16,6 @@ type: "cv"
 
 {{< json-resume "volunteer" >}}
 
-## Awards
-
-{{< json-resume "awards" >}}
-
-## Certificates
-
-{{< json-resume "certificates" >}}
-
-## Publications
-
-{{< json-resume "publications" >}}
-
 ## Skills
 
 {{< json-resume "skills" >}}
@@ -35,10 +23,6 @@ type: "cv"
 ## Languages
 
 {{< json-resume "languages" >}}
-
-## Interests
-
-{{< json-resume "interests" >}}
 
 ## References
 
