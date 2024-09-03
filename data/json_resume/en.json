@@ -1,4 +1,3 @@
-
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
@@ -29,55 +28,144 @@
   },
   "work": [
     {
-      "name": "",
-      "location": "",
-      "description": "",
-      "position": "",
+      "name": "Desenvolvedor Freelance",
+      "location": "Remoto",
+      "description": "Prestação de serviços de desenvolvimento web e automação para clientes internacionais",
+      "position": "Desenvolvedor Freelance",
       "url": "",
-      "startDate": "",
+      "startDate": "2021",
       "endDate": "",
-      "summary": "",
+      "summary": "Desenvolvimento de extensões de navegador e sistemas de agregação de dados para otimizar processos e melhorar a eficiência dos clientes",
       "highlights": [
-        "",
-        "",
-        ""
+        "Criação de extensão de navegador para coletar dados de eventos automotivos do Facebook e integrar ao banco de dados do cliente",
+        "Desenvolvimento de extensão para coleta automática de e-mails de grupos do Facebook, otimizando a prospecção de clientes",
+        "Implementação de sistema para agregar dados de diferentes sites de anúncios imobiliários e integrar à plataforma do cliente"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "ACALMA - Coletivo de Redução de Danos",
+      "position": "Gestor - Recursos Humanos",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "Atuação como gestor de recursos humanos em um coletivo focado na redução de danos ligados ao uso de substâncias em festas universitárias, promovendo conscientização e mitigação de riscos.",
+      "highlights": [
+        "Organização de eventos de integração e reuniões gerais do grupo",
+        "Condução de processos seletivos para novos membros",
+        "Mediação de conflitos interpessoais entre membros do coletivo",
+        "Gestão do banco de horas e emissão de certificados e termos de voluntariado",
+        "Promoção de conscientização sobre uso responsável de substâncias em ambientes universitários"
+      ]
+    }
   ],
   "education": [
     {
-      "institution": "",
+      "institution": "USP - Universidade de São Paulo",
       "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": ""
+      "area": "Ciências Biológicas",
+      "studyType": "Bacharelado",
+      "startDate": "2016",
+      "endDate": "2024"
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "publications": [
-    {
-    }
+    {}
   ],
   "skills": [
     {
       "name": "Web Development",
       "level": "Master",
       "keywords": [
+        "Node.js",
+        "Puppeteer",
+        "JSDOM",
+        "API",
+        "Express",
+        "WebSockets",
+        "RESTful API",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
         "HTML",
-        "CSS",
-        "Javascript",
-        "Typescript"
+        "CSS"
+      ]
+    },
+    {
+      "name": "Data Processing",
+      "level": "Advanced",
+      "keywords": [
+        "Web Scraping",
+        "Data Aggregation",
+        "Real-time Data Processing",
+        "Error Handling"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "detectree2",
+        "Detectron2",
+        "Model Training",
+        "Data Preparation",
+        "Tiling",
+        "Parameter Tuning",
+        "Model Validation"
+      ]
+    },
+    {
+      "name": "Geoprocessing",
+      "level": "Intermediate",
+      "keywords": [
+        "QGIS",
+        "OpenDroneMap",
+        "Ortho-mosaics",
+        "Georeferencing"
+      ]
+    },
+    {
+      "name": "Hardware Development",
+      "level": "Intermediate",
+      "keywords": [
+        "ESP32",
+        "C++",
+        "LED Control",
+        "Microcontroller Programming"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Advanced",
+      "keywords": [
+        "SQL",
+        "PostgreSQL",
+        "Data Storage",
+        "Database Design"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Advanced",
+      "keywords": [
+        "Freelance Projects",
+        "Client Communication",
+        "Requirement Analysis",
+        "Solution Design",
+        "Impact Assessment"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Ingleês",
+      "language": "Inglês",
       "fluency": "Proficiente"
+    },
+    {
+      "language": "Portugês",
+      "fluency": "Nativo"
     }
   ],
   "interests": [
@@ -91,27 +179,91 @@
   ],
   "references": [
     {
-      "name": "",
-      "reference": ""
+      "name": "Ray Lloyd",
+      "reference": "Mateus is by far the best programmer I have worked with on Upwork.  He understood the requirements quickly, communicated promptly and did an excellent job.  I highly recommend Mateus.  I will be hiring him again for any development work I need."
+    },
+    {
+      "name": "Bunty SomRoy",
+      "reference": "Super willing to help me flesh out this project. It was just an idea! now it's a real thing :)"
+    },
+    {
+      "name": "Andre Magana",
+      "reference": "Super responsive, super sensitive to the final product and went above and beyond in every way. It was a small project but i know that Mateus would bring efficiency skill, and availability to any project he works on. He very clearly cares that you are getting the product you want and he will make it happen."
     }
   ],
   "projects": [
     {
-      "name": "",
-      "description": "",
+      "name": "Sistema de Agregação de Leads Imobiliários em Tempo Real",
+      "description": "Desenvolvi um sistema de agregação de leads para uma empresa imobiliária na Flórida, como parte de um projeto freelance. Este sistema coleta e centraliza informações de diversos sites de imóveis, fornecendo dados atualizados em tempo real na plataforma Podio.",
       "highlights": [
-        "",
-        "",
-        ""
+        "Monitoramento e coleta de dados de múltiplos sites de imóveis.",
+        "Automações na plataforma Podio para atualização de status e registro de avaliações.",
+        "Conversão de endereços em coordenadas geográficas e integração do histórico de comunicações com clientes."
       ],
       "keywords": [
-        "", "", ""
+        "Node.js",
+        "Puppeteer",
+        "JSDOM",
+        "API",
+        "Podio"
       ],
-      "startDate": "",
+      "startDate": "2022",
       "endDate": "",
       "url": "",
       "roles": [
-        "", ""
+        "Desenvolvedor Full Stack",
+        "Freelancer"
+      ],
+      "entity": "Empresa Imobiliária na Flórida",
+      "type": "Freelance"
+    },
+    {
+      "name": "Segmentação de Copas de Árvores com Aprendizado de Máquina",
+      "description": "Desenvolvi uma metodologia para individualizar copas de árvores usando imagens RGB capturadas por drone, visando criar uma solução de baixo custo e amplamente aplicável para avaliação de áreas florestais extensas.",
+      "highlights": [
+        "Geração de ortomosaicos de alta qualidade com diferentes altitudes de voo.",
+        "Treinamento de modelo com detectree2, ajustando parâmetros para melhorar a performance.",
+        "Validação do modelo correlacionando polígonos gerados com dados de campo."
+      ],
+      "keywords": [
+        "ODM",
+        "Python",
+        "Machine learning",
+        "QGIS",
+        "Geoprocessamento"
+      ],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "",
+      "roles": [
+        "Desenvolvedor",
+        "Pesquisador"
+      ],
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "LEDge: Revolucionando a Experiência de Boulder em Academias de Escalada",
+      "description": "Criei uma solução acessível e dinâmica que permite que academias de escalada aproveitem a estrutura existente para criar uma experiência interativa onde os escaladores podem criar e compartilhar infinitos problemas de boulder na mesma parede.",
+      "highlights": [
+        "Painel interativo LED controlado individualmente para iluminar agarras.",
+        "Criação de problemas personalizados por meio de uma interface intuitiva no smartphone.",
+        "Atualização em tempo real dos problemas na parede através de comunicação entre servidor e hardware."
+      ],
+      "keywords": [
+        "Typescript",
+        "Javascript",
+        "Angular",
+        "C++",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "startDate": "2024",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "Desenvolvedor Full Stack",
+        "Engenheiro de Hardware"
       ],
       "entity": "",
       "type": ""
