@@ -17,6 +17,7 @@ tags:
 
 Desenvolvi um sistema de agregação de leads para uma empresa imobiliária na Flórida, como parte de um projeto freelance. Este sistema coleta e centraliza informações de diversos sites de imóveis, fornecendo dados atualizados em tempo real na plataforma Podio, utilizada pela equipe de vendas para prospecção de oportunidades.
 
+<!--more-->
 
 ## Funcionalidades Principais
 
