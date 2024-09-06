@@ -3,14 +3,7 @@
   "basics": {
     "name": "Mateus Cabete",
     "label": "Desenvolvedor Full Stack",
-    "image": "/avatar.png",
-    "summary": "Desenvolvedor de software com formação em Biologia, apaixonado por resolver problemas complexos e criar soluções inovadoras. Transitei para a área de tecnologia em 2021, combinando minha experiência científica com habilidades técnicas.",
-    "email": "mateus.cabete@gmail.com",
-    "url": "https://mpcabete.xyz",
-    "location": {
-      "city": "Ribeirão Preto",
-      "region": "Brasil"
-    },
+    "image": "/cat.png",
     "profiles": [
       {
         "network": "GitHub",

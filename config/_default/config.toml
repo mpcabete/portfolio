@@ -50,6 +50,11 @@ enableGitInfo = true
   # Plausible auth secret to enable public dashboard
   plausibleAuth = ""
 
+  # [params.tagCloud]
+  #   enable = true
+  #   minFontSizeRem = 1.0
+  #   maxFontSizeRem = 1.2
+
   [params.logo]
     text = "mpcabete.xyz"
     url = "/"
