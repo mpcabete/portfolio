@@ -133,11 +133,11 @@ enableGitInfo = true
     name = "Currículo"
     url = "/cv"
     weight = 10 
-  [[menu.main]]
-    identifier = "Sobre"
-    name = "Sobre"
-    url = "/sobre"
-    weight = 20
+  # [[menu.main]]
+  #   identifier = "Sobre"
+  #   name = "Sobre"
+  #   url = "/sobre"
+  #   weight = 20
 
 [languages]
   [languages.pt]
