@@ -6,6 +6,9 @@ cover:
 tags:
   - QGIS
   - R
+  - Python
+  - QGIS
+  - Geoprocessamento
 ---
 
 # 

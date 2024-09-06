@@ -5,32 +5,33 @@ type: "cv"
 ---
 
 
-## Experience
+## Experiência
 
 {{< json-resume "work" >}}
 
-## Education
+## Educação
 
 {{< json-resume "education" >}}
 
-## Volunteering
+## Voluntariado
 
 {{< json-resume "volunteer" >}}
 
-## Skills
+## Habilidades
 
 {{< json-resume "skills" >}}
 
-## Languages
+## Linguagens
 
 {{< json-resume "languages" >}}
 
-## References
+## Referencias
 
 {{< json-resume "references" >}}
 
-## Projects
+## Projetos
 
 {{< json-resume "projects" >}}
 
 ![mpcabete's GitHub stats](https://github-readme-stats-five-lake-36.vercel.app/api?username=mpcabete&show_icons=true&theme=gruvbox&locale=pt-br)
+![linguagens mais usadas](https://github-readme-stats-five-lake-36.vercel.app/api/top-langs/?username=mpcabete&layout=compact&theme=gruvbox&locale=pt-br)

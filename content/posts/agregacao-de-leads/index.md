@@ -8,10 +8,10 @@ comments: true
 socialShare: true
 tags:
   - Nodejs
+  - Typescript
   - Puppeteer
   - JSDOM
   - API
-  - Freelance
 ---
 
 

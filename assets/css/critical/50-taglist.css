@@ -1,0 +1,10 @@
+.tag-list {
+border-bottom: 2px dotted var(--bg1);
+  & .post-tag {
+    color: var(--primary-alt);
+  }
+
+  & .post-tag:hover {
+    color: var(--primary);
+  }
+}

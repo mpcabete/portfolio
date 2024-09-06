@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="content-section">
+  <h1>{{ .Title | markdownify }}</h1>
+  {{ with .Content }}
+  <div>{{ . }}</div>
+  {{ end }}
+</div>
+<!-- See https://gohugo.io/functions/where/#mainsections -->
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ $paginator := .Paginate $pages }}
+
+
+<div class="tag-list">
+<div class="post-tags">
+{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+
+  <div>
+      <div class="post-tag">
+        <a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
+        <sup>({{$cnt}})</sup>
+      </div>
+  </div>
+  {{end}}
+{{end}}
+
+</div>
+</div>
+
+{{ partial "post-list.html" $paginator }}
+{{ end }}
