@@ -1,6 +1,6 @@
 ---
 title: "Segmentação de Copas de Árvores com Aprendizado de Máquina"
-date: 2024-08-28T01:00:27+02:00
+date: 2024-01-01
 cover:
   src: cover.png
 draft: false

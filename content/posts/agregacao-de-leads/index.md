@@ -1,6 +1,6 @@
 ---
 title: "Sistema de Agregação de Leads Imobiliários em Tempo Real"
-date: 2024-09-02
+date: 2023-12-02
 cover:
   src: podio.png
 draft: false
