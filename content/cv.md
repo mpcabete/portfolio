@@ -4,6 +4,7 @@ draft: false
 type: "cv"
 ---
 
+[Download PDF](/curriculo.pdf)
 
 ## Experiência
 
