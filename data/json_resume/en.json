@@ -11,11 +11,11 @@
       },
       {
         "network": "LinkedIn",
-        "url": "https://www.linkedin.com/in/mpcabete"
+        "url": "https://www.linkedin.com/in/mateus-cabete"
       },
       {
         "network": "RSS",
-        "url": "https://mpcabete.xyz/index.xml"
+        "url": "https://portfolio.mpcabete.xyz/index.xml"
       }
     ]
   },
@@ -116,7 +116,8 @@
         "QGIS",
         "OpenDroneMap",
         "Ortho-mosaics",
-        "Georeferencing"
+        "Georeferencing",
+        "GeoPandas"
       ]
     },
     {

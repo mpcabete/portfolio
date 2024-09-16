@@ -26,7 +26,7 @@ type: "cv"
 
 {{< json-resume "languages" >}}
 
-## Referencias
+## Referências
 
 {{< json-resume "references" >}}
 

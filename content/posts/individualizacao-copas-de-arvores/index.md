@@ -9,6 +9,7 @@ socialShare: true
 tags:
   - ODM
   - Python
+  - GeoPandas
   - Machine learning
   - QGIS
   - Geoprocessamento
