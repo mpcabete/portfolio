@@ -2,7 +2,7 @@
 title: "Sistema de Agregação de Leads Imobiliários em Tempo Real"
 date: 2023-12-02
 cover:
-  src: podio.png
+  src: endereco.png
 draft: false
 comments: true
 socialShare: true
