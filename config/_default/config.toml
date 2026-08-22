@@ -1,6 +1,7 @@
 baseURL = "https://portfolio.mpcabete.xyz"
 copyright = "© Mateus Cabete"
 title = "Mateus Cabete"
+defaultContentLanguage = "pt"
 #paginate = 10
 enableRobotsTXT = true
 enableGitInfo = true
