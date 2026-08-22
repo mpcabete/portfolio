@@ -20,6 +20,8 @@ tags:
 
 Inspirado em produtos similares no mercado, criei uma solução mais acessível e dinâmica, que possibilita que academias de escalada aproveitem a estrutura existente para criar uma experiência interativa onde os escaladores podem criar e compartilhar infinitos problemas de boulder na mesma parede.
 
+![Pessoa escalando a parede do LEDge na academia Kmon](./escalada-foto.png)
+
 <!--more-->
 
 ### **Características Principais**
