@@ -15,7 +15,7 @@ tags:
 
 ## Visão Geral do Projeto
 
-Este projeto teve como objetivo avaliar e otimizar a conectividade ecológica entre fragmentos florestais na região de Ribeirão Preto, São Paulo. Utilizamos técnicas avançadas de processamento de imagens de satélite, aprendizado de máquina e teoria de grafos para identificar áreas prioritárias para restauração ambiental.
+Neste projeto, tivemos como objetivo avaliar e otimizar a conectividade ecológica entre fragmentos florestais na região de Ribeirão Preto, São Paulo. Utilizamos técnicas avançadas de processamento de imagens de satélite, aprendizado de máquina e teoria de grafos para identificar áreas prioritárias para restauração ambiental.
 
 <!--more-->
 
@@ -64,7 +64,7 @@ Este projeto teve como objetivo avaliar e otimizar a conectividade ecológica en
 
 ## Resultados
 
-O projeto resultou em um mapa detalhado mostrando áreas prioritárias para restauração, baseado na análise de conectividade. Identificamos 105,82 km de corredores potenciais que poderiam significativamente melhorar a conectividade ecológica na região.
+Como resultado, obtivemos um mapa detalhado mostrando áreas prioritárias para restauração, a partir da análise de conectividade. Identificamos 105,82 km de corredores potenciais que poderiam significativamente melhorar a conectividade ecológica na região.
 
 
 ## Impacto e Aplicações Futuras

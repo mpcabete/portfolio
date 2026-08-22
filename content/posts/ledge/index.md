@@ -47,7 +47,7 @@ Inspirado em produtos similares no mercado, criei uma solução mais acessível 
 
 ### **Desafios e Soluções**
 
-Um dos principais desafios foi encontrar uma solução que possibilitasse a comunicação em tempo real do microcontrolador com a interface de forma eficiente e de fácil configuração tanto para a academia quanto para os usuários. Ou seja, que não fosse necessário nenhuma configuração na rede da academia, ou que o usuário não precisasse fazer download de nenhum aplicativo.
+Um dos principais desafios foi encontrar uma solução que possibilitasse a comunicação em tempo real do microcontrolador com a interface de forma eficiente e de fácil configuração tanto para a academia quanto para os usuários. Ou seja, que não fosse necessária nenhuma configuração na rede da academia, ou que o usuário não precisasse baixar nenhum aplicativo.
 Este desafio foi superado pela divisão do projeto em três partes: um backend que gerencia toda a funcionalidade de armazenamento de problemas e credenciais para login; a interface, onde os usuários podem criar e gerenciar seus problemas, além de selecionar problemas existentes para serem exibidos na parede; e o microcontrolador, que estabelece uma conexão reversa com o servidor para receber atualizações do estado da fita de LED e exibir animações durante a atualização de estado.
 
 ### **Impacto e Futuro**
