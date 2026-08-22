@@ -1,21 +1,24 @@
-+++
-title = "Individualização De Copas De Arvores"
-date = "2024-08-22T18:07:42-03:00"
-author = "Mateus Cabete"
-cover = "./predicao.png"
-tags = ["", ""]
-keywords = ["", ""]
-description = "Projeto de pequisa desenvolvido na USP onde explorei metodologia para segmentação de copas de árvores"
-showFullContent = false
-readingTime = false
-hideComments = false
-+++
-
-# Segmentação de Copas de Árvores com Aprendizado de Máquina
-
-## Introdução
+---
+title: "Segmentação de Copas de Árvores com Aprendizado de Máquina"
+date: 2024-01-01
+cover:
+  src: cover.png
+draft: false
+comments: true
+socialShare: true
+tags:
+  - ODM
+  - Python
+  - GeoPandas
+  - Machine learning
+  - QGIS
+  - Geoprocessamento
+  - georreferenciamento
+---
 
 Neste projeto, desenvolvi uma metodologia para individualizar copas de árvores usando imagens RGB capturadas por drone. O objetivo era criar uma solução de baixo custo e amplamente aplicável para avaliação de áreas florestais extensas.
+
+<!--more-->
 
 ## Tecnologias Utilizadas
 

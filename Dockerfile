@@ -1,8 +1,14 @@
 # Stage 1
-FROM alpine:latest AS build
+FROM hugomods/hugo:latest AS build
 
 # Install the Hugo go app.
-RUN apk add --update hugo
+# RUN apt update
+
+# RUN apt install hugo -y
+
+# RUN apt install golang -y
+
+# RUN go version
 
 WORKDIR /opt/HugoApp
 
@@ -10,7 +16,8 @@ WORKDIR /opt/HugoApp
 COPY . .
 
 # Run Hugo in the Workdir to generate HTML.
-RUN hugo 
+RUN npm install
+RUN hugo
 
 # Stage 2
 FROM nginx:latest
