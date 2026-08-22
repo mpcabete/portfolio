@@ -3,7 +3,7 @@
   "basics": {
     "name": "Mateus Cabete",
     "label": "Desenvolvedor Full Stack",
-    "image": "/cat.png",
+    "image": "/eu.jpg",
     "profiles": [
       {
         "network": "GitHub",
@@ -20,6 +20,22 @@
     ]
   },
   "work": [
+    {
+      "name": "Sigma Geotecnologias / Ambium",
+      "location": "Ribeirão Preto, SP",
+      "description": "Analista de automação e infraestrutura cloud, na interseção entre geotecnologias e certificação agroambiental",
+      "position": "Analista de Automação e Infraestrutura Cloud",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Processamento de imagens de satélite (Sentinel/NDVI) para a plataforma Tomografia do Canavial e automações em Python das certificações RenovaBio, Bonsucro e ISCC, além de gestão de infraestrutura em nuvem e atuação no comitê de segurança da informação.",
+      "highlights": [
+        "Processamento de imagens Sentinel e cálculo de NDVI para a plataforma de inteligência territorial Tomografia do Canavial",
+        "Desenvolvimento e manutenção das automações em Python das certificações RenovaBio, Bonsucro e ISCC",
+        "Estruturação e gestão da infraestrutura em nuvem (AWS/OCI, Docker, Kubernetes, nginx, SSL, DNS)",
+        "Atuação no comitê de segurança da informação"
+      ]
+    },
     {
       "name": "Desenvolvedor Freelance",
       "location": "Remoto",
@@ -59,7 +75,7 @@
       "area": "Ciências Biológicas",
       "studyType": "Bacharelado",
       "startDate": "2016",
-      "endDate": "2024"
+      "endDate": "2023"
     }
   ],
   "awards": [],
@@ -210,6 +226,31 @@
       ],
       "entity": "Empresa Imobiliária na Flórida",
       "type": "Freelance"
+    },
+    {
+      "name": "Análise de Conectividade Ecológica Usando Teoria de Grafos e Aprendizado de Máquina",
+      "description": "Projeto de pesquisa aplicada em ecologia da paisagem, combinando sensoriamento remoto e teoria de grafos para avaliar a conectividade ecológica entre fragmentos florestais em Ribeirão Preto/SP e identificar áreas prioritárias para restauração.",
+      "highlights": [
+        "Classificação da cobertura do solo a partir de imagens Sentinel-2",
+        "Modelagem da paisagem em grid hexagonal com métricas de centralidade em grafos",
+        "Identificação de 105,82 km de corredores ecológicos potenciais"
+      ],
+      "keywords": [
+        "QGIS",
+        "R",
+        "Python",
+        "Teoria de Grafos",
+        "Sensoriamento Remoto",
+        "Geoprocessamento"
+      ],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "",
+      "roles": [
+        "Pesquisador"
+      ],
+      "entity": "Estação Ecológica de Ribeirão Preto",
+      "type": "Pesquisa"
     },
     {
       "name": "Segmentação de Copas de Árvores com Aprendizado de Máquina",
