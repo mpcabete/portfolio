@@ -2,6 +2,7 @@
 services:
   nginx-portifolio:
     image: ghcr.io/mpcabete/portfolio:latest
+    pull_policy: always
     restart: unless-stopped
     ports: 
       - 1314:80
