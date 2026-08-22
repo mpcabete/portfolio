@@ -1,32 +1,17 @@
-# Stage 1
+# Stage 1 — build
 FROM hugomods/hugo:latest AS build
-
-# Install the Hugo go app.
-# RUN apt update
-
-# RUN apt install hugo -y
-
-# RUN apt install golang -y
-
-# RUN go version
 
 WORKDIR /opt/HugoApp
 
-# Copy Hugo config into the container Workdir.
+# Copia só os manifests de dependência primeiro, pra cachear o node_modules entre builds
+COPY package.json package-lock.json ./
+RUN npm install --no-audit --no-fund
+
+# Copia o restante do projeto e gera o site minificado
 COPY . .
+RUN hugo --minify
 
-# Run Hugo in the Workdir to generate HTML.
-RUN npm install
-RUN hugo
-
-# Stage 2
-FROM nginx:latest
-
-# Set workdir to the NGINX default dir.
-#WORKDIR /usr/share/nginx/html
-
-# Copy HTML from previous build into the Workdir.
+# Stage 2 — serve
+FROM nginx:alpine
 COPY --from=build /opt/HugoApp/public /usr/share/nginx/html
-
-# Expose port 80
-EXPOSE 80/tcp
+EXPOSE 80
