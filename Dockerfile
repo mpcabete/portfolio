@@ -17,9 +17,7 @@ COPY . .
 
 # Run Hugo in the Workdir to generate HTML.
 RUN npm install
-RUN hugo mod get
-RUN go get github.com/schnerring/hugo-theme-gruvbox@0eb434ccff160fcc3ca2ce103db2f1c93362cf77
-RUN hugo 
+RUN hugo
 
 # Stage 2
 FROM nginx:latest

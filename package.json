@@ -64,5 +64,8 @@
     "stylelint-prettier": "^5.0.2"
   },
   "name": "portifolio-2024",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "browserslist": [
+    "defaults"
+  ]
 }

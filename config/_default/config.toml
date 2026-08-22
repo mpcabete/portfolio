@@ -150,3 +150,7 @@ enableGitInfo = true
     weight = 20
     [languages.en.params.jsonResume]
       present = "presente"
+
+[security.node.permissions]
+  # Desativa o permission model do Node injetado pelo Hugo (postcss/browserslist precisa ler fora do working dir)
+  disable = true
