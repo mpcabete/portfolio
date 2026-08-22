@@ -66,6 +66,8 @@ Neste projeto, tivemos como objetivo avaliar e otimizar a conectividade ecológi
 
 Como resultado, obtivemos um mapa detalhado mostrando áreas prioritárias para restauração, a partir da análise de conectividade. Identificamos 105,82 km de corredores potenciais que poderiam significativamente melhorar a conectividade ecológica na região.
 
+Esse trabalho culminou no documento "Proposta inicial para a implantação de corredores ecológicos interligando a Estação Ecológica de Ribeirão Preto ao Ribeirão da Onça", aprovado pelo Conselho Consultivo da Estação Ecológica de Ribeirão Preto e protocolado na prefeitura municipal.
+
 
 ## Impacto e Aplicações Futuras
 
