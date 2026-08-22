@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Mateus Cabete",
-    "label": "Desenvolvedor Full Stack",
+    "label": "Analista de Automação e Infraestrutura Cloud",
     "image": "/eu.png",
     "profiles": [
       {
