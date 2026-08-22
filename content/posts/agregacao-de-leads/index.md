@@ -7,8 +7,8 @@ draft: false
 comments: true
 socialShare: true
 tags:
-  - Nodejs
-  - Typescript
+  - Node.js
+  - TypeScript
   - Puppeteer
   - JSDOM
   - API

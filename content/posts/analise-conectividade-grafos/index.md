@@ -1,17 +1,17 @@
 ---
 title: "Análise de Conectividade Ecológica Usando Teoria de Grafos e Aprendizado de Máquina"
-date: "2024-02-22"
+date: 2024-02-22
 cover:
-    src: ./centralidade.png
+  src: ./centralidade.png
+draft: false
+comments: true
+socialShare: true
 tags:
   - QGIS
   - R
   - Python
-  - QGIS
   - Geoprocessamento
 ---
-
-# 
 
 ## Visão Geral do Projeto
 

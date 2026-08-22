@@ -10,10 +10,10 @@ tags:
   - ODM
   - Python
   - GeoPandas
-  - Machine learning
+  - Machine Learning
   - QGIS
   - Geoprocessamento
-  - georreferenciamento
+  - Georreferenciamento
 ---
 
 Neste projeto, desenvolvi uma metodologia para individualizar copas de árvores usando imagens RGB capturadas por drone. O objetivo era criar uma solução de baixo custo e amplamente aplicável para avaliação de áreas florestais extensas.
